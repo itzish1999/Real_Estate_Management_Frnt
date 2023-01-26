@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/itzish1999/Real_Estate_Management_Frnt#readme",
   "dependencies": {
-    "react-scripts": "^5.0.1"
+    "react-scripts": "5.0.1"
   }
 }
