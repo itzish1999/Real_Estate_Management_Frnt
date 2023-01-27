@@ -7,7 +7,7 @@ function App() {
   const [dummyData, setDummyData] = useState([]);
 
   useEffect(() => {
-    axios.get('http://localhost:1000/dummydata')
+    axios.get('https://re-mngmnt-bck.herokuapp.com/dummydata')
       .then(res => {
         setDummyData(res.data);
       })
